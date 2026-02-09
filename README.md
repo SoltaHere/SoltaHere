@@ -19,7 +19,7 @@
 🌱 Currently diving into **scalable systems and Python-based automation**.
 
 - 👨‍💻 Some of my projects are available at [GitHub Repositories](https://github.com/SoltaHere)
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **soltahere@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
